@@ -11,9 +11,6 @@ The **Sudoku CSP Solver** is an Artificial Intelligence project developed in **P
 - Constraint propagation using the AC-3 algorithm
 - MRV heuristic for efficient variable selection
 - Backtracking search with forward checking
-- Performance tracking through backtracking calls and failures
-- Supports puzzle input from text files
-
 ---
 
 ## Algorithms Implemented
